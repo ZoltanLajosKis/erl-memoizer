@@ -1,0 +1,11 @@
+%% @author Zoltán Lajos Kis <zoltan.lajos.kis@gmail.com>
+%% @copyright 2016 Zoltán Lajos Kis
+%%
+{application, memoizer, [
+  {description, "A memoization library"},
+  {vsn, "1.0.0"},
+  {modules, []},
+  {registered, []},
+  {applications, [kernel, stdlib, syntax_tools]},
+  {env, []}
+]}.
